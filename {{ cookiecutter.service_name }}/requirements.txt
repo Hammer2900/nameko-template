@@ -1,0 +1,2 @@
+nameko
+pytest==4.6.5
